@@ -4,7 +4,7 @@ import seaborn as sns
 import numpy as np
 
 # Start coding here!
-dt = pd.read_csv("data/nobel.csv")
+dt = pd.read_csv("nobel.csv")
 
 # Load the dataset and find the most common gender and birth country
 top_country = dt['birth_country'].value_counts(sort=True).index[0]
