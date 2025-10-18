@@ -6,7 +6,8 @@ The Nobel Foundation has made a dataset available of all prize winners from the 
 
 In this project, you'll get a chance to explore and answer several questions related to this prizewinning data. And we encourage you then to explore further questions that you're interested in!
 
-## Analyze Nobel Prize winner data and identify patterns by answering the following questions:
+<br>
+### Analyze Nobel Prize winner data and identify patterns by answering the following questions:
 
 ### What is the most commonly awarded gender and birth country?
 
